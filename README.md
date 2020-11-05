@@ -14,7 +14,7 @@
 
 ## دروس کارشناسی
 
-[1322110_01 روش پژوهش و ارائه 3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
+[1322110_01 روش پژوهش و ارائه 3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 
 ----------------
 ## روز و ساعت ارائه دروس
