@@ -3,7 +3,7 @@
 ### زهرا حق وردی
  
 ---
-- [حساب گیت هاب](https://github.com/FatemehVakili/)
+- [حساب گیت هاب](https://github.com/haghverdizahra94)
 
 - [رزومه](https://haghverdizahra94.github.io/zahrahaghverdi/)
 
