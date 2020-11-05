@@ -34,6 +34,10 @@
 
 - [SOP](https://haghverdizahra94.github.io/SOP/)
 
+- [PNU_3991_AR](https://github.com/haghverdizahra94/PNU_3991_AR)
+
+- [JavaScript certificate]()
+
 ------------------
 ## Winter Semester Courses 1399/2020
 
@@ -71,7 +75,7 @@
   </tr>
    <tr>
     <th ></th>
-    <th ><a hreh :"href="https:https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">روش پژوهش و ارائه</a></th>
+    <th ><a href="https:https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">روش پژوهش و ارائه</a></th>
     <th ></th>
     <th></th>
     <th ></th>   
@@ -102,8 +106,4 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
----------------
-<br>
-G-U02
-<br>
-<br>
+
