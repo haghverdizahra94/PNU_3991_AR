@@ -5,9 +5,9 @@
 ---
 - [حساب گیت هاب](https://github.com/FatemehVakili/)
 
-- [رزومه](https://fatemehvakili.github.io/)
+- [رزومه])(https://haghverdizahra94.github.io/zahrahaghverdi/
 
-- [SOP](https://FatemehVakili.github.io/SOP/)
+- [SOP](https://haghverdizahra94.github.io/SOP/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
