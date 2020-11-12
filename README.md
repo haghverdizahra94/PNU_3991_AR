@@ -36,7 +36,7 @@
 
 - [PNU_3991_AR](https://github.com/haghverdizahra94/PNU_3991_AR)
 
-- [JavaScript certificate](https://www.sololearn.com/Certificate/javascript/jpg/)
+- [JavaScript certificate](https://s16.picofile.com/d/8413771992/a8befd3e-8469-4cc0-9555-b2d973b293aa/%D8%A8%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C.pdf)
 
 ------------------
 ## Winter Semester Courses 1399/2020
