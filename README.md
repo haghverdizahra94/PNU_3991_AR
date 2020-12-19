@@ -38,6 +38,8 @@
 
 - [JavaScript certificate](https://s16.picofile.com/d/8413795934/1aa879e3-c350-441c-a00c-740eff4d8e4c/cert_1024_20288543.pdf)
 
+- [تایپ کتاب صفحه 37تا۳۹](https://s17.picofile.com/file/8418110950/ex1.pdf.html)
+
 ------------------
 ## Winter Semester Courses 1399/2020
 
