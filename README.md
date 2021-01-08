@@ -42,12 +42,12 @@
 
 ##(تایپ صفجه های کتاب (37-39
 <table style="width:100%">
-  <tr>
+    <tr>
     <th><a href="https://s17.picofile.com/file/8420570842/safhe37.pdf.html">صفحه 37</th>
     </tr>
       <tr>
         <th><a href="https://s16.picofile.com/file/8420570976/safhe38.pdf.html">صفحه 38</th>
-    </tr>
+    </tr>  
       <tr>
         <th><a href="https://s16.picofile.com/file/8420571018/safhe39.pdf.html">صفحه 39</th>
     </tr>
