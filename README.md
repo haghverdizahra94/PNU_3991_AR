@@ -40,7 +40,19 @@
 
 - [تایپ کتاب صفحه 37تا۳۹](https://s17.picofile.com/file/8418110950/ex1.pdf.html)
 
-- [دروس مشابه](http://smbidoki.ir/crsdetail.php?crsid=41) 
+- [دروس مشابه](http://smbidoki.ir/crsdetail.php?crsid=41)
+
+##دروس مشابه
+<table style="width:100%">
+  <tr>
+    <th>ارائه دانشگاه خلیج فارس بوشهر</th>
+    <td><a href="http://smbidoki.ir/crsdetail.php?crsid=41">نمونه اول</a></td>
+    <tr>
+      <tr>
+    <th> ارائه دانشگاه جورجیا</th>
+    <td><a href="https://libguides.gatech.edu/c.php?g=944744&p=6810453">نمونه دوم</a></td>
+    <tr>
+  <table>
 
 ------------------
 ## Winter Semester Courses 1399/2020
