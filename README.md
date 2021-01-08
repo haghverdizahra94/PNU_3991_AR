@@ -44,13 +44,13 @@
 
 <table style="width:100%">
     <tr>
-    <th><a href="https://s17.picofile.com/file/8420574276/52675.html">صفحه 37</th>
+    <th><a href="https://s16.picofile.com/file/8420587826/safhe37.pdf.html">صفحه 37</th>
     </tr>
       <tr>
-        <th><a href="https://s17.picofile.com/file/8420574276/52675.html">صفحه 38</th>
+        <th><a href="https://s16.picofile.com/file/8420587876/safhe38.pdf.html">صفحه 38</th>
     </tr>  
       <tr>
-        <th><a href="https://s16.picofile.com/file/8420574350/52677.html">صفحه 39</th>
+        <th><a href="https://s17.picofile.com/file/8420587900/safhe39.pdf.html">صفحه 39</th>
     </tr>
   </table>
     
