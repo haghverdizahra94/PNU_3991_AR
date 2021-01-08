@@ -38,20 +38,33 @@
 
 - [JavaScript certificate](https://s16.picofile.com/d/8413795934/1aa879e3-c350-441c-a00c-740eff4d8e4c/cert_1024_20288543.pdf)
 
-- [تایپ کتاب صفحه 37تا۳۹](https://s17.picofile.com/file/8418110950/ex1.pdf.html)
+------------------------
 
+##(تایپ صفجه های کتاب (37-39
+<table style="width:100%">
+  <tr>
+    <th><a href="https://s17.picofile.com/file/8420570842/safhe37.pdf.html">صفحه 37</th>
+    </tr>
+      <tr>
+        <th><a href="https://s16.picofile.com/file/8420570976/safhe38.pdf.html">صفحه 38</th>
+    </tr>
+      <tr>
+        <th><a href="https://s16.picofile.com/file/8420571018/safhe39.pdf.html">صفحه 39</th>
+    </tr>
+  </table>
+    
 -----------------------
 ##دروس مشابه
 <table style="width:100%">
   <tr>
     <td><a href="http://smbidoki.ir/crsdetail.php?crsid=41">نمونه اول</a></td>
     <th>ارائه دانشگاه خلیج فارس بوشهر</th>
-    <tr>
+    </tr>
       <tr>
     <td><a href="https://libguides.gatech.edu/c.php?g=944744&p=6810453">نمونه دوم</a></td>
         <th style="backgrand-color:red"> ارائه دانشگاه جورجیا</th>
-    <tr>
-  <table>
+    </tr>
+  </table>
     
 -----------------------
 ##پایان نامه مربوطه به رشته مهندسی کامپیوتر
@@ -59,12 +72,12 @@
   <tr>
     <td><a href="https://oatd.org/oatd/search?q=id%3A%22oai%3Aetd.ohiolink.edu%3Aosu1587693436870594%22">پایان نامه اول</a></td>
     <th>کارشناسی ارشد ، مهندسی برق و کامپیوتر ، 2020 ، دانشگاه ایالتی اوهایو</th>
-    <tr>
+    </tr>
       <tr>
     <td><a href="https://oatd.org/oatd/search?q=id%3A%22handle%3A10012%2F16359%22">پایان نامه دوم</a></td>
    <th>دانشگاه واترلو</th>
-    <tr>
-  <table>
+    </tr>
+  </table>
 
 ------------------
 ## Winter Semester Courses 1399/2020
