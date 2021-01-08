@@ -40,7 +40,8 @@
 
 ------------------------
 
-##(تایپ صفجه های کتاب (37-39
+### (تایپ صفحه های کتاب (37-39
+
 <table style="width:100%">
     <tr>
     <th><a href="https://s17.picofile.com/file/8420570842/safhe37.pdf.html">صفحه 37</th>
@@ -54,8 +55,9 @@
   </table>
     
 -----------------------
-##دروس مشابه
-<table style="width:100%">
+### دروس مشابه
+ 
+ <table style="width:100%">
   <tr>
     <td><a href="http://smbidoki.ir/crsdetail.php?crsid=41">نمونه اول</a></td>
     <th>ارائه دانشگاه خلیج فارس بوشهر</th>
@@ -67,7 +69,8 @@
   </table>
     
 -----------------------
-##پایان نامه مربوطه به رشته مهندسی کامپیوتر
+### پایان نامه مربوطه به رشته مهندسی کامپیوتر
+
 <table style="width:100%">
   <tr>
     <td><a href="https://oatd.org/oatd/search?q=id%3A%22oai%3Aetd.ohiolink.edu%3Aosu1587693436870594%22">پایان نامه اول</a></td>
