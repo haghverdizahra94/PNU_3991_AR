@@ -44,12 +44,15 @@
 
 بخش عمومی
 
--[خلاصه ارزیابی رزومه و انگیزه نامه](https://s17.picofile.com/file/8421190926/_%D8%AE%D9%84%D8%A7%D8%B5%D9%87_%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C_%D8%B1%D8%B2%D9%88%D9%85%D9%87_XX_CV_CheckList_AR_3991.docx.html)
--[خلاصه ارزیابی بخش عمومی](https://s17.picofile.com/file/8421191000/_%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA_%D9%85%D8%B4%D8%AA%D8%B1%DA%A9_%D9%88_%D8%A8%D8%AE%D8%B4_%D8%B9%D9%85%D9%88%D9%85%DB%8C_XX_GeneralSection_CheckList_AR_3991.docx.html)
+- [خلاصه ارزیابی رزومه و انگیزه نامه](https://s17.picofile.com/file/8421190926/_%D8%AE%D9%84%D8%A7%D8%B5%D9%87_%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C_%D8%B1%D8%B2%D9%88%D9%85%D9%87_XX_CV_CheckList_AR_3991.docx.html)
+
+- [خلاصه ارزیابی بخش عمومی](https://s17.picofile.com/file/8421191000/_%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA_%D9%85%D8%B4%D8%AA%D8%B1%DA%A9_%D9%88_%D8%A8%D8%AE%D8%B4_%D8%B9%D9%85%D9%88%D9%85%DB%8C_XX_GeneralSection_CheckList_AR_3991.docx.html)
 
 -----------------
+
 بخش دروس کارشناسایی
--[خلاصه ارزیابی درس روش و پژوهش و اراِئه](https://s17.picofile.com/file/8421190818/_%D8%AE%D9%84%D8%A7%D8%B5%D9%87_%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C_%D8%AF%D8%B1%D8%B3_XX_ResearchAndPresentationMethods_CheckList_AR_3991.docx.html)
+
+- [خلاصه ارزیابی درس روش و پژوهش و اراِئه](https://s17.picofile.com/file/8421190818/_%D8%AE%D9%84%D8%A7%D8%B5%D9%87_%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C_%D8%AF%D8%B1%D8%B3_XX_ResearchAndPresentationMethods_CheckList_AR_3991.docx.html)
 
 ------------------------
 
