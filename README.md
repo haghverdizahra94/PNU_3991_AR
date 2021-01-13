@@ -40,6 +40,19 @@
 
 ------------------------
 
+### ارزیابی ها
+
+بخش عمومی
+
+-[خلاصه ارزیابی رزومه و انگیزه نامه](https://s17.picofile.com/file/8421190926/_%D8%AE%D9%84%D8%A7%D8%B5%D9%87_%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C_%D8%B1%D8%B2%D9%88%D9%85%D9%87_XX_CV_CheckList_AR_3991.docx.html)
+-[خلاصه ارزیابی بخش عمومی](https://s17.picofile.com/file/8421191000/_%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA_%D9%85%D8%B4%D8%AA%D8%B1%DA%A9_%D9%88_%D8%A8%D8%AE%D8%B4_%D8%B9%D9%85%D9%88%D9%85%DB%8C_XX_GeneralSection_CheckList_AR_3991.docx.html)
+
+-----------------
+بخش دروس کارشناسایی
+-[خلاصه ارزیابی درس روش و پژوهش و اراِئه](https://s17.picofile.com/file/8421190818/_%D8%AE%D9%84%D8%A7%D8%B5%D9%87_%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C_%D8%AF%D8%B1%D8%B3_XX_ResearchAndPresentationMethods_CheckList_AR_3991.docx.html)
+
+------------------------
+
 ### (تایپ صفحه های کتاب (37-39
 
 <table style="width:100%">
@@ -150,4 +163,28 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
+------------------
+### گروه ها
+
+ 1. [ RPM-51 فاطمه قاسمی نیاسر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/51_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%82%D8%A7%D8%B3%D9%85%D9%8A%20%D9%86%D9%8A%D8%A7%D8%B3%D8%B1)
+ 
+ 2. [ RPM-02 زهرا احمدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/02_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%A7%D8%AD%D9%85%D8%AF%D9%8A)
+
+ 3. [ RPM-62 فاطمه مرادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/62_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D8%B1%D8%A7%D8%AF%D9%8A)
+
+ 4. [ RPM-13  زهرا حق ویردی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/13_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AD%D9%82%20%D9%88%D9%8A%D8%B1%D8%AF%D9%8A)
+
+ 5. [ RPM-66   علیرضا نیک پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/66_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D9%86%D9%8A%D9%83%20%D9%BE%D9%88%D8%B1)
+
+6. [ RPM-06  امير رضا باهوش مهدی ابادی ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/06_%D8%A7%D9%85%D9%8A%D8%B1%D8%B1%D8%B6%D8%A7%20%D8%A8%D8%A7%D9%87%D9%88%D8%B4%20%D9%85%D9%87%D8%AF%D9%8A%20%D8%A2%D8%A8%D8%A7%D8%AF%D9%8A)
+
+ 7. [ RPM-32 محمد شاهسوند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/32_%D9%85%D8%AD%D9%85%D8%AF%20%D8%B4%D8%A7%D9%87%D8%B3%D9%88%D9%86%D8%AF)
+
+ 8. [ RPM-26  محدثه روحانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/26_%D9%85%D8%AD%D8%AF%D8%AB%D9%87%20%D8%B1%D9%88%D8%AD%D8%A7%D9%86%D9%8A)
+
+ 9. [  RPM-46  فاطمه قاسمی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/46_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%82%D8%A7%D8%B3%D9%85%D9%8A)
+
+ 10. [ RPM-40  مهرداد صفی خانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/40_%D9%85%D9%87%D8%B1%D8%AF%D8%A7%D8%AF%20%D8%B5%D9%81%D9%8A%20%D8%AE%D8%A7%D9%86%D9%8A)
+ 11. [  RPM-07  مريم بهار لو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/07_%D9%85%D8%B1%D9%8A%D9%85%20%D8%A8%D9%87%D8%A7%D8%B1%D9%84%D9%88%D9%82%D8%B1%D9%87%20%D8%A8%D9%84%D8%B7%D8%A7%D9%82%D9%8A) 
+
 
